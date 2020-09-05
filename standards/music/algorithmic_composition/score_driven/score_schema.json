@@ -1,0 +1,19 @@
+{
+	"score": {
+		"parts": [
+			"part": [ 
+					"event": {
+						"onset": "number",
+						"pitch": "number",
+						"intensity": "number",
+						"duration": "number"
+						}
+				    ]		
+		        ],
+
+		"data" : {
+			"sequential": [],
+			"general": []
+		}
+	}
+}
